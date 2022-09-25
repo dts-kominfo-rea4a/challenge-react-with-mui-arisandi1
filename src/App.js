@@ -1,5 +1,5 @@
 import './App.css';
-
+import './data/contacts.json';
 // Uncomment untuk memuat daftar kontak
 // import contactsJSON from './data/contacts.json';
 const App = () => {
